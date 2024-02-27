@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-My name is Reid, and I'm an embedded software engineer interested in bringing hardware to life.
-
 <!--
 **reidt1/reidt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+My name is Reid, and I'm an embedded software engineer interested in bringing hardware to life.
 - 🔭 I’m currently working on QNX for TI Jacinto SoCs...
 - I've contributed to Linux, TI-Linux, and TI-U-boot
 - 🌱 I’m currently learning ...
